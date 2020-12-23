@@ -99,7 +99,7 @@ Let's walk through and example using the font from _Where in the World is Carmen
 7. Select directory `NA`
 8. Edit > Paste
 9. Rename the old `NA:FONT2` to `FONT2.BACKUP` via Actions > Rename
-10. Rename `NA:CARMEN.FONT` to 'FONT2` via Actions > Rename
+10. Rename `NA:CARMEN.FONT` to `FONT2` via Actions > Rename
 11. Close CiderPress and fire up Nox Archaist in your favorite emulator!
 
 ## Copy ][+ 
