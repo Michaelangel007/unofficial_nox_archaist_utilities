@@ -77,7 +77,7 @@ now be patient with the extra verbose description. It looks more complicated
  * Wait for saving to finish
    ![Save done](pics/nox_archaist_8_save_done.png)
 
-Before you re-boot Nox Archat let's install a new, second font.
+Before you re-boot Nox Archaist let's install a new, second font.
 
 # Changing Fonts
 
