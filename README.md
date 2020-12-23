@@ -24,7 +24,7 @@ we used for the game that I wrote and Mark said _"Sure!"_
 
 Here are my unofficial collection of utilities that I think all Nox Archaist fans will be interested in.
 
-**DISCLAIMER:** This project is NOT affiliated with 6502workshop in any way, shape or fashion. This is an UNOFFICIAL mod and UNSUPPORTED software by fan who also helped worked on the game and toolchain.
+**DISCLAIMER:** This project is NOT affiliated with 6502workshop in any way, shape or fashion. This is an UNOFFICIAL mod and UNSUPPORTED software by a fan who also helped worked on the game and toolchain.
 
 # Built-in Fonts
 
