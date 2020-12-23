@@ -17,20 +17,20 @@
   * [Select Mode Keys](#select-mode-keys)
   * [Edit Mode Keys](#edit-mode-keys)
 
-# Introduction 
+# Introduction
 
 _Context:_ I was one of the programmers on _Nox Archaist._ I asked Mark if I could share the Font Editor
-we used for the game that I wrote and Mark said _"Sure!"_ 
+we used for the game that I wrote and Mark said _"Sure!"_
 
-Here are my unofficial collection of utilities that I think all Nox Archaist fans will be interested in.
+Here are my unofficial collection of utilities that I think all _Nox Archaist_ fans will be interested in.
 
 **DISCLAIMER:** This project is NOT affiliated with 6502workshop in any way, shape or fashion. This is an UNOFFICIAL mod and UNSUPPORTED software by a fan who also helped worked on the game and toolchain.
 
 # Built-in Fonts
 
-Nox Archaist comes with 2 great fonts out-of-the-box:
+_Nox Archaist_ comes with 2 great fonts out-of-the-box:
 
-* `FONT1` -- A "Runic-inspired" Nox Archaist font
+* `FONT1` -- A "Runic-inspired" _Nox Archaist_ font
   * ![Font 1](pics/font_1.png)
 * `FONT2` -- A traditional Apple 2 "thin" font
   * ![Font 2](pics/font_2.png)
@@ -45,7 +45,7 @@ Would you prefer a different font that _you_ might find more readable or stylist
 
 As shown above I've included a few different fonts to pick from.
 
-Now there are a couple different ways to replace the font used in Nox Archaist depending
+Now there are a couple different ways to replace the font used in _Nox Archaist_ depending
 on if you are more comfortable with utilities or the command line. I'll go over
 both methods.
 
@@ -77,7 +77,7 @@ now be patient with the extra verbose description. It looks more complicated
  * Wait for saving to finish
    ![Save done](pics/nox_archaist_8_save_done.png)
 
-Before you re-boot Nox Archaist let's install a new, second font.
+Before you re-start _Nox Archaist_ let's install a new, second font.
 
 # Changing Fonts
 
@@ -90,7 +90,7 @@ Let's walk through and example using the font from _Where in the World is Carmen
 
 ## CiderPress
 
-1. Stop any emulator(s) that have the Nox Archaist HDV image mounted, or "unplug" the hard drive.
+1. Stop any emulator(s) that have the _Nox Archaist_ HDV image mounted, or "unplug" the hard drive.
 2. Start CiderPress
 3. File > Open > `NA.GRAPHICS.dsk`
 4. Select: `FONTS:CARMEN.FONT`
@@ -100,9 +100,9 @@ Let's walk through and example using the font from _Where in the World is Carmen
 8. Edit > Paste
 9. Rename the old `NA:FONT2` to `FONT2.BACKUP` via Actions > Rename
 10. Rename `NA:CARMEN.FONT` to `FONT2` via Actions > Rename
-11. Close CiderPress and fire up Nox Archaist in your favorite emulator!
+11. Close CiderPress and fire up _Nox Archaist_ in your favorite emulator!
 
-## Copy ][+ 
+## Copy ][+
 
 If you wist to use Copy \]\[+ to copy the font you will need to use a
 latter version that supports ProDOS such as 8.4.
@@ -130,11 +130,11 @@ latter version that supports ProDOS such as 8.4.
  * Press `G` to copy
  * Select the `NA` sub-directory destination
    * ![Directory](pics/copy2plus_5h_destination_directory.png)
- * Copying ... 
+ * Copying ...
    * ![Copying](pics/copy2plus_5i_copying.png)
- * ... and this step is done. 
- 
-6. Rename the Nox Archaist `FONT2` to `FONT9` to back it up.
+ * ... and this step is done.
+
+6. Rename the _Nox Archaist_ `FONT2` to `FONT9` to back it up.
 
  * Rename
    * ![Rename](pics/copy2plus_6a_rename.png)
@@ -210,7 +210,7 @@ Same instructions as above but the TL:DR; version is:
 ```
 # Font Editor
 
-The font editor used on Nox Archaist is included! 
+The font editor used on _Nox Archaist_ is included!
 
 * ![Nox Font 1](pics/font1_font_edit.png)
 * ![Nox Font 2](pics/font2_font_edit.png)
