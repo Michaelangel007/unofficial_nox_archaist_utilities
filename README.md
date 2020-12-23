@@ -55,9 +55,16 @@ now be patient with the extra verbose description. It looks more complicated
 
 # Before you change the font
 
-**NOTE:** You need to start/continue a Nox Archaist game before you can switch the font! At this time you _CAN NOT_ change the font from the Main Menu -- only in-game.
+**NOTE:** You need to start/continue a _Nox Archaist_ game before you can switch the font! At this time you _CAN NOT_ change the font from the Main Menu -- only in-game.
 
-1. Start Nox Archaist
+To clarify, you can either:
+
+* Start _Nox Archaist_, toggle the font, reboot, replace `FONT2` with a new font, reboot again, or
+* Replace `FONT2` with a new font, reboot, Start _Nox Archaist_, toggle the font, and reboot.
+
+We'll use the former steps.
+
+1. Start _Nox Archaist_
 2. Either continue or make a new game.
 3. When you see your avatar in game:
 
